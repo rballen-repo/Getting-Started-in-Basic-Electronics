@@ -8,10 +8,10 @@
 
 //  Definition of trigger, echo, beep pins and other constants
 #define trigger      2
-#define  echo         3
+#define  echo        3
 #define beep        11
-#define beep_start 100
-#define min_distance  -.01
+#define beep_start 120
+#define min_distance  5
 
 // Definition of sound speed (centimetres / microsecond)
 #define c 0.0343
